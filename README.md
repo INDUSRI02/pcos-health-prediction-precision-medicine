@@ -71,3 +71,6 @@ npm run build
    - Recommended exercises  
    - Suggested medications  
 ### 👩‍⚕️ *Empowering healthcare through precision medicine!*
+
+DEMO VIDEO : https://drive.google.com/file/d/1RrTKN9WCXUuJdkvPIMqannEXv99gKhe_/view?usp=drivesdk
+
